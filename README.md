@@ -1,4 +1,3 @@
 # Information-Resource-Manager-
-Project based on specification.
-
-..
+Projekat radjen na osnovu zadate specifikcije: SpecifikacijaSemestralnogProjekta.docx
+Samostalno radjen projekat.
