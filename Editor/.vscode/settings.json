@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "python.pythonPath": "C:\\Users\\Tamara\\envs\\bazepodataka\\Scripts\\python.exe",
+    "python.linting.flake8Enabled": true
+}

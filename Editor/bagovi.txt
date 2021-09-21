@@ -1,0 +1,10 @@
+* ID nije moguce menjati, on se unosi automatski
+
+* Sekvencijalne datoteke su prikazane kao plave tabele
+
+* Kada se kreira i brise red iz tabele
+potrebno je ponovo kliknuti na red u tabeli 
+da bi se prikazala izmena
+
+* Ne otrvara automatski datoteku, pre prikazala
+potrebno je osveziti radni prostor

@@ -1,0 +1,7 @@
+{
+    "collumns": ["br_upisa", "ustanova", "oznaka_programa", "student_iz_ustanove", "struka", "broj_indeksa", "skolska_godina", "godina_studija", "blok", "datum_upisa", "datum_overe", "espb_pocetni", "espb_krajnji"],
+    "key": "br_upisa",
+    "linked_files": [""],
+    "path_to_file": "tok_studija_data",
+    "type": "sequential"
+}

@@ -1,0 +1,7 @@
+{
+    "collumns": ["oznaka", "naziv", "adresa", "studenti", "nastavni_predmeti","studijski_programi"],
+    "key": "oznaka",
+    "linked_files": ["student_metadata", "studijski_rogram_data", "nastavni_predmet_data"],
+    "path_to_file": "visokoskolska_ustanova_data",
+    "type": "serial"
+}

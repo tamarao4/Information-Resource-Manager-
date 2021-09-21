@@ -1,0 +1,7 @@
+{
+    "collumns": ["broj_indeksa", "struka", "ustanova", "prezime", "ime_roditelja", "ime", "pol", "adresa_stanovanja", "telefon", "jmbg", "datum_rodjenja", "tok_studija"],
+    "key": "broj_indeksa",
+    "linked_files": ["tok_sutdija_metadata", "visokoskolska_ustanova_metadata"],
+    "path_to_file": "student_data",
+    "type": "sequential"
+}
